@@ -2,7 +2,7 @@ GraphQL server using ApolloServer for a simple todo application written in Node.
 
 You can access the deployed frontend with the following URL:
 
-https://blog-frontend-gql-react.herokuapp.com/
+http://organizemytodos.herokuapp.com/
 
 You can run the code with the "npm start" script.
 
